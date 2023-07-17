@@ -1,34 +1,29 @@
 # FRT_final_project
 This is our Final project of Future Ready Talent Virtual Internship
-loadstring(game:HttpGet(('htt# ✨ Title  ✨
+This is a web based application developed for Travel Agency.
 
-This is a web based application developed for a restaurant named PARADISE.
-
-### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based Travel Agency has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -
-
-
-**Demo Video** -  
+**Project Link** -https://travelagencyfrt.z29.web.core.windows.net/
 
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, Chef Staff pages etc.
-- User is able to book a table through the website.
-- Included the feedback Survey form to increase the scope of improvement 
+- Has collection of many web pages including Home, About, Contact Us,Services, Pages,Health Bot,Tourpackages etc.
+- User is able to book a travel services and bookings through the website.
 
 ## Screenshots 📸
-### Home page -   
+### Home page -   ![Uploading image.png…]()
 
-### Team page -
+
+### services page -
 
 ### Contact page -
 
-### Menu Page -
+### health bot Page -
 
 ### About Us Page -
 
@@ -39,4 +34,4 @@ This is a web based application developed for a restaurant named PARADISE.
 - HTML
 - CSS
 - Bootstrap
-- JavaScriptps://pastebin.com/raw/PaWZGzyK'),true))()
+- JavaScript
