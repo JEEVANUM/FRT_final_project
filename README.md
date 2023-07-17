@@ -13,12 +13,12 @@ This is a web based application developed for Travel Agency.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About, Contact Us,Services, Pages,Health Bot,Tourpackages etc.
-- User is able to book a travel services and bookings through the website.
+- User is able to book a travel services and bookings through the website
 
 ## Azure Technologies Used-
 
--Health Bot(To handle emergency conditions that may arise and to take precautions)
--Azure Blob Storage
+- Health Bot(To handle emergency conditions that may arise and to take precautions)
+- Azure Blob Storage
 
 ## Screenshots 📸
 
@@ -42,7 +42,6 @@ This is a web based application developed for Travel Agency.
 
 ### Azure Services Portal Page -
 <img src="azureserviceportal.png">
-
 
 ## Tech Stack 💻
 
