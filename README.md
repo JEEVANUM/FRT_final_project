@@ -4,6 +4,11 @@ This is a web based application developed for Travel Agency.
 
 ### This web based Travel Agency has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
+# Description
+
+### A travel agency website is essential in today's digital age for several reasons.It serves as an online platform where potential travelers can access a wealth of information about various destinations, accommodations, transportation options, and activities. It provides them with the convenience of researching and planning their trips from the comfort of their homes.
+### A travel agency website offers a secure and reliable platform for users to book their travel arrangements. It enables travelers to search for flights, hotels, car rentals, and other services, compare prices, and make reservations directly through the website. This streamlines the booking process and saves time and effort for both the travelers and the agency.
+
 
 **Project Link** -https://travelagencyfrt.z29.web.core.windows.net/
 
@@ -19,6 +24,9 @@ This is a web based application developed for Travel Agency.
 
 - Health Bot(To handle emergency conditions that may arise in travel locations and to take necessary precautions)
 - Azure Blob Storage
+
+## YouTube video link :
+https://youtu.be/YAUJacUPJ58
 
 ## Screenshots 📸
 
