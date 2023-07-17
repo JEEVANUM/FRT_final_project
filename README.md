@@ -17,7 +17,7 @@ This is a web based application developed for Travel Agency.
 
 ## Azure Technologies Used-
 
-- Health Bot(To handle emergency conditions that may arise and to take precautions)
+- Health Bot(To handle emergency conditions that may arise in travel locations and to take necessary precautions)
 - Azure Blob Storage
 
 ## Screenshots 📸
