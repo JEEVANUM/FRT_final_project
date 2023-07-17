@@ -21,12 +21,22 @@ This is a web based application developed for Travel Agency.
 <img src="home.png">
 
 ### services page -
+<img src="service.png">
 
 ### Contact page -
+<img src="contact.png">
 
 ### health bot Page -
+<img src="health.png">
 
 ### About Us Page -
+<img src="about.png">
+
+### Tour Packages Page -
+<img src="tour packages.png">
+
+### Azure Services Portal Page -
+<img src="azureserviceportal.png">
 
 
 ## Tech Stack 💻
