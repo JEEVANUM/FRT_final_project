@@ -18,7 +18,7 @@ This is a web based application developed for Travel Agency.
 ## Screenshots 📸
 
 ### Home page -  
-<img src="home.png>
+<img src="home.png">
 
 ### services page -
 
