@@ -16,8 +16,8 @@ This is a web based application developed for Travel Agency.
 - User is able to book a travel services and bookings through the website.
 
 ## Screenshots 📸
-### Home page -   ![Uploading image.png…]()
 
+### Home page -  
 
 ### services page -
 
