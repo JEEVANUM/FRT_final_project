@@ -26,7 +26,7 @@ This is a web based application developed for Travel Agency.
 <img src="home.png">
 
 ### services page -
-<img src="service.png">
+<img src="services.png">
 
 ### Contact page -
 <img src="contact.png">
