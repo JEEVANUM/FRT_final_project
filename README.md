@@ -21,9 +21,11 @@ This is a web based application developed for Travel Agency.
 - User is able to book a travel services and bookings through the website
 
 ## Azure Technologies Used-
-
+- Static Web App(Deployment of the website).
+- Azure Blob Storage(Azure storage account).
+- Containers.
 - Health Bot(To handle emergency conditions that may arise in travel locations and to take necessary precautions)
-- Azure Blob Storage
+
 
 ## YouTube video link :
 https://youtu.be/YAUJacUPJ58
