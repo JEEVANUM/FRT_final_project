@@ -10,7 +10,7 @@ This is a web based application developed for Travel Agency.
 ### A travel agency website offers a secure and reliable platform for users to book their travel arrangements. It enables travelers to search for flights, hotels, car rentals, and other services, compare prices, and make reservations directly through the website. This streamlines the booking process and saves time and effort for both the travelers and the agency.
 
 
-**Project Link** -https://travelagencyfrt.z29.web.core.windows.net/
+**Project Link(Azure Link)** -https://travelagencyfrt.z29.web.core.windows.net/
 
 ## Features and Functionalities 😃
 
