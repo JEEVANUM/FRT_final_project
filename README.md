@@ -24,7 +24,7 @@ This is a web based application developed for Travel Agency.
 - Static Web App(Deployment of the website).
 - Azure Blob Storage(Azure storage account).
 - Containers.
-- Health Bot(To handle emergency conditions that may arise in travel locations and to take necessary precautions)
+- Health Bot.
 
 
 ## YouTube video link :
