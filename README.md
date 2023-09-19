@@ -14,11 +14,9 @@ This is a web based application developed for Travel Agency.
 
 ## Features and Functionalities 😃
 
-- Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
-- Have an aesthetically pleasing visual design and architecture.
+- It is a static website.
 - Has collection of many web pages including Home, About, Contact Us,Services, Pages,Tourpackages etc.
-- User is able to book a travel services and bookings through the website
+
 
 ## Azure Technologies Used-
 - Static Web App( For Deployment of the website).
