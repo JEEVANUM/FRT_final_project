@@ -49,7 +49,7 @@ https://youtu.be/YAUJacUPJ58
 <img src="tour packages.png">
 
 ### Azure Services Portal Page -
-<img src="azureserviceportal.png">
+<img src="azure services ss.png">
 
 ## Tech Stack 💻
 
